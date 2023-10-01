@@ -10,3 +10,5 @@ Approached through a straight dive into JavaScript logic, the focus was on honin
 ## View it live
 
 Have you deployed your project somewhere? Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about
+[https://6519c12111fd767a76605cc7--dulcet-begonia-9ecde9.netlify.app
+](url)
