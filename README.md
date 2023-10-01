@@ -1,10 +1,11 @@
-# Project Name
+# Pizza
 
-Replace this readme with your own information about your project. Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+In this project, the goal is to grasp essential JavaScript basics such as variables, conditionals, and native methods, within a distraction-free coding environment, shedding the usual webpage complexities.
 
 ## The problem
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Approached through a straight dive into JavaScript logic, the focus was on honing variable usage (envisioned as data containers), employing conditionals for smart decision-making, and exploiting native methods for streamlined operations. Planning involved a step-by-step breakdown of these core concepts, utilizing JavaScript as the sole technology. Given more time, extending this base to more advanced JavaScript features and perhaps integrating with HTML/CSS for web page interactions would be the next steps.
+
 
 ## View it live
 
