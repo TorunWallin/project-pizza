@@ -9,5 +9,4 @@ Approached through a straight dive into JavaScript logic, the focus was on honin
 
 ## View it live
 
-[https://dulcet-begonia-9ecde9.netlify.app)https://dulcet-begonia-9ecde9.netlify.app
-](url)
+![netlify](https://dulcet-begonia-9ecde9.netlify.app)
